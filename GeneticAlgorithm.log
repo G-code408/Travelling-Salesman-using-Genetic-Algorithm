@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Omar Abdulaziz\source\repos\GeneticAlgorithm\main.cpp(196,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Omar Abdulaziz\source\repos\GeneticAlgorithm\main.cpp(84): warning C4715: 'crossoverhelper': not all control paths return a value
+LINK : fatal error LNK1168: cannot open C:\Users\Omar Abdulaziz\source\repos\GeneticAlgorithm\Debug\GeneticAlgorithm.exe for writing
